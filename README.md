@@ -1,4 +1,4 @@
 paper-wallet
 ============
 
-Paper Wallet Generator for CannabisCoin
+Paper Wallet Generator for Capricoin
